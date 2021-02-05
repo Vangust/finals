@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662173186713",
+    "project_id": "exam-30d96",
+    "storage_bucket": "exam-30d96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662173186713:android:7a94776e0d47170ebb9608",
+        "android_client_info": {
+          "package_name": "com.example.fianls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662173186713-6p1ilhg9h1pgr3cgjt120sdlrvdmbtlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDp0nV4h3D_i3w-ztMEfkzOT3r7UtMGxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662173186713-6p1ilhg9h1pgr3cgjt120sdlrvdmbtlo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
